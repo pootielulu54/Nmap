@@ -211,4 +211,4 @@ Nmap is available as a complete free version with all features and updates inclu
 Unlock your network's potential today—download Nmap free and take control of your cybersecurity!
 
 ---
-**Last updated:** 2026-10-22 21:03:58 UTC
+**Last updated:** 2026-10-23 00:18:57 UTC
